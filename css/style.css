@@ -1,0 +1,206 @@
+body,h5{
+margin:0;
+padding:0;
+}
+.main{
+margin-left:30%;
+height:auto;
+width: 800px;
+}
+.teeth{
+	background: url('../img/white-small.png');
+	background-repeat: no-repeat;
+	height: 85px;
+}
+.top-jew > div, .bottom-jew > div{
+	float:left;
+	display: block;
+}
+.bottom-jew {
+	clear: both;
+	height: 95px;
+}
+#t-1-8{
+  width: 35px; 
+  background-position: -11px -9px;
+}
+#t-1-7{	
+  width: 35px; 
+  background-position: -51px -9px;
+}
+#t-1-6{	
+  width: 35px; 
+  background-position: -96px -9px;
+}
+#t-1-5{	
+  width: 35px; 
+  background-position: -137px -9px;
+}
+#t-1-4{	
+  width: 30px; 
+  background-position: -183px -9px;
+}
+#t-1-3{	
+  width: 24px; 
+  background-position: -228px -10px;
+}
+#t-1-2{	
+  width: 24px; 
+  background-position: -267px -10px;
+}
+#t-1-1{	
+  width: 24px; 
+  background-position: -307px -10px;
+}
+#t-2-1{	
+  width: 24px; 
+  background-position: -345px -10px;
+}
+#t-2-2{	
+  width: 24px; 
+  background-position: -385px -10px;
+}
+#t-2-3{	
+  width: 29px; 
+  background-position: -425px -9px;
+}
+#t-2-4{	
+  width: 29px;
+  background-position: -468px -9px;
+}
+#t-2-5{	
+  width: 29px;
+  background-position: -508px -9px;
+}
+#t-2-6{	
+  width: 36px;
+  background-position: -545px -9px;
+}
+#t-2-7{	
+  width: 36px;
+  background-position: -585px -9px;
+}
+#t-2-8{	
+  width: 36px;
+  background-position: -625px -9px;
+}
+#t-4-8{
+  width: 35px; 
+  height: 85px;
+  background-position: -11px -100px;
+}
+#t-4-7{
+  width: 42px; 
+  height: 85px;
+  background-position: -48px -100px;
+}
+#t-4-6{
+  width: 41px; 
+  height: 95px;
+  background-position: -92px -100px;
+}
+#t-4-5{
+  width: 30px; 
+  height: 93px;
+  background-position: -137px -100px;
+}
+#t-4-4{
+  width: 25px; 
+  height: 93px;
+  background-position: -180px -95px;
+}
+#t-4-3{
+  width: 25px; 
+  height: 100px;
+  background-position: -224px -94px;
+}
+#t-4-2{
+  width: 25px; 
+  height: 100px;
+  background-position: -266px -95px;
+}
+#t-4-1{
+  width: 25px; 
+  height: 100px;
+  background-position: -307px -94px;
+}
+#t-3-1{
+  width: 25px; 
+  height: 100px;
+  background-position: -349px -94px;
+}
+#t-3-2{
+  width: 21px; 
+  height: 100px;
+  background-position: -390px -94px;
+}
+#t-3-3{
+  width: 25px; 
+  height: 100px;
+  background-position: -430px -94px;
+}
+#t-3-4{
+  width: 27px; 
+  height: 100px;
+  background-position: -469px -94px;
+}
+#t-3-5{
+  width: 30px; 
+  height: 100px;
+  background-position: -508px -92px;
+}
+#t-3-6{
+  width: 42px; 
+  height: 100px;
+  background-position: -542px -92px;
+}
+#t-3-7{
+  width: 40px; 
+  height: 100px;
+  background-position: -586px -92px;
+}
+#t-3-8{
+  width: 40px; 
+  height: 100px;
+  background-position: -626px -92px;
+}
+.info-content{
+ clear:both;
+}
+.teeth-form{
+ width:485px; 
+ height:auto; 
+ border:1px solid grey;
+ float:left;
+ border-radius:7px;
+ padding-bottom:10px;
+ -webkit-box-shadow: inset 3px -2px 28px -5px rgba(214,207,214,0.73);
+-moz-box-shadow: inset 3px -2px 28px -5px rgba(214,207,214,0.73);
+box-shadow: inset 3px -2px 28px -5px rgba(214,207,214,0.73);
+}
+.teeth-form-img{
+ width:69px;
+ float:left; 
+ margin:5px 15px;
+}
+.teeth-form-img > div{
+height:100px;
+}
+.teeth-form-history{
+ width:250px; 
+ float:left;
+}
+.teeth-form-info{
+width:136px;
+float:left;
+}
+.hide-doctor{
+ position:relative;
+visibility:hidden;
+}
+.show-doctor{
+ visibility: visible;
+}
+.saveForm{
+margin-top:26px;
+}
